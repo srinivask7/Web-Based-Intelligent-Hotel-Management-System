@@ -28,6 +28,7 @@ public class Booking
 		  System.err.println(e.getMessage());
       }
     try
+	    
     {
       // create a mysql database connection
       String myDriver = "com.mysql.jdbc.Driver";
